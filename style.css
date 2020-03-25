@@ -70,3 +70,10 @@ p {
 #retour {
     margin: 2%;
 }
+
+.rsx {
+    width: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
