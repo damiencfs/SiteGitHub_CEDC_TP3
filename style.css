@@ -1,0 +1,76 @@
+html, body {
+margin : 0;
+padding :0;
+}
+
+body {
+    background-image: linear-gradient(#f66e01,#f6852b,#f79649);
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: white;
+}
+
+h1{
+    text-align: center;
+    color: orange;
+}
+
+img {
+    width: 30%;
+}
+
+#formulaire {
+    width: 40%;
+    margin-left: 30%;
+}
+
+.index {
+    width: 30%;
+    margin-left: 2%;
+}
+
+nav{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+h3{
+    text-align: center;
+}
+
+#youtube {
+    width: 5%;
+}
+
+p {
+    text-align: justify;
+    margin: 2%;
+}
+
+.bienfaits {
+    width: 25%;
+    margin-left: 15%;
+}
+
+.cream {
+    float: right;
+    margin-right: 10%;
+    width: 40%;
+}
+
+.img {
+    margin-left: 10%;
+
+}
+
+#retour {
+    margin: 2%;
+}
+
+.rsx {
+    width: 5%;
+}
