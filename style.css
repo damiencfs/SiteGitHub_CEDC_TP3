@@ -21,7 +21,7 @@ h1{
 }
 
 img {
-    width: 20%;
+    width: 30%;
 }
 
 #formulaire {
@@ -36,8 +36,34 @@ img {
 
 nav{
     text-align: center;
+    margin-bottom: 3%;
 }
 
 h3{
     text-align: center;
+}
+
+#youtube {
+    width: 5%;
+}
+
+p {
+    text-align: justify;
+    margin: 2%;
+}
+
+.bienfaits {
+    width: 25%;
+    margin-left: 15%;
+}
+
+.cream {
+    float: right;
+    margin-right: 10%;
+    width: 40%;
+}
+
+.img {
+    margin-left: 10%;
+
 }
