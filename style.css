@@ -3,10 +3,9 @@ margin : 0;
 padding :0;
 }
 
-html {
+body {
     background-image: linear-gradient(#f66e01,#f6852b,#f79649);
 }
-
 a {
     text-decoration: none;
     color: black;
@@ -66,4 +65,8 @@ p {
 .img {
     margin-left: 10%;
 
+}
+
+#retour {
+    margin: 2%;
 }
