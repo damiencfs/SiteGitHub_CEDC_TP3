@@ -1,12 +1,10 @@
-$('document').ready(function({
+$('document').ready(function(){
 
-$('img').click(function(){
+    $("img").mouseover(function(){
 
-$(this).css('transform','rotate');
+    $(this).css('transform','rotate(10deg)');
+    $(this).css('marginLeft','+=20%');
+    });
 
-})
-
-
-
-
-}))
+    
+});
